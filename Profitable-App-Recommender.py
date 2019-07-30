@@ -176,7 +176,6 @@ print(android_clean[7940][0])
 
 
 def is_english(string):
-    count=0
     for character in string:
         if ord(character) > 127:
             return False
@@ -188,26 +187,26 @@ print(is_english('Docs To Go™ Free Office Suite'))
 print(is_english('Instachat 😜'))
 
 
-# For 'Instachat 😜' and 'Docs To Go™ Free Office Suite, eventhough the names are in English but because they have used 😜 and ™, the function has returned False. To solve this issue we will make a change in in the function. The function returns False only if name app name has more than 3 characters that are not in english. This is not a completely correct way but will still give a decent result.
+# For 'Instachat 😜' and 'Docs To Go™ Free Office is the name of the file Suite, eventhough the names are in English but because they have used 😜 and ™, the function has returned False. To solve this issue we will make a change in in the function. The function returns False only if name app name has more than 3 characters that are not in english. This is not a completely correct way but will still give a decent result.
 
 # In[13]:
 
 
-def is_english(string):
-    count=0
-    for character in string:
-        if ord(character) > 127:
-            count+=1
-    if count>3:
-        return False
-    else:
-        return True
+# def is_english(string):
+#     count=0
+#     for character in string:
+#         if ord(character) > 127:
+#             count+=1
+#     if count>3:
+#         return False
+#     else:
+#         return True
 
 
-print(is_english('Instagram'))
-print(is_english('爱奇艺PPS -《欢乐颂2》电视剧热播'))
-print(is_english('Docs To Go™ Free Office Suite'))
-print(is_english('Instachat 😜'))
+# print(is_english('Instagram'))
+# print(is_english('爱奇艺PPS -《欢乐颂2》电视剧热播'))
+# print(is_english('Docs To Go™ Free Office Suite'))
+# print(is_english('Instachat 😜'))
 
 
 
