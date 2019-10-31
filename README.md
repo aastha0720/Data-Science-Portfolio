@@ -7,4 +7,4 @@ Data Visualization Project – to show that I can communicate data visually usin
 Machine Learning Project – to effectively build a model that makes accurate predictions with data 
 End to End Project – to build a stand-alone system that can take in data, processes it and produce output in a specific form.
 
-These projects are made in Jupyter notebooks and contain mardowns to expain the process and results that can be concluded. These projects are not exhaustive and tehy can be expanded to give more insight. 
+These projects are made in Jupyter notebooks and contain mardowns to expain the process and results that can be concluded. These projects are not exhaustive and they can be expanded to give more insight. 
