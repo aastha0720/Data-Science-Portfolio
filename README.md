@@ -1,4 +1,5 @@
 Dataquest-Projects
+
 This repository contains the projects that i completed during a Data Science course I had taken. The course I had taken up was the Data Scientist path in  Python by Dataquest. I found their course extremely helpful in building up a strong data science foundation, something I can build upon more now. The course included several different types of projects to demonstrate different skills. Here are a few different types of projects that I build:
 Data Cleaning Project – to show that I can tae many data sets clean them, and combine them for analysis.
 Data Storytelling Project – to demostrate that I can extract insights from data, communicate these insights and reason with data. 
