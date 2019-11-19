@@ -26,4 +26,4 @@ Repository containing portfolio of data science projects completed by me for sel
 * [Kaggle Titanic Competition](https://github.com/aastha0720/Data-Science-Portfolio/blob/master/TItanic%20Competition.ipynb) – The famous Titanic Competition on Kaggle, to predict the survivors on RMS Titanic
 * [Analyzing CIA Factbook Data Using SQLite and Python](https://github.com/aastha0720/Data-Science-Portfolio/blob/master/Analyzing%20CIA%20Factbook%20Data%20Using%20SQLite%20and%20Python.ipynb) - An exploratory project to analyze the CIA factbook data using SQLite and Python.
 
-If you liked what you saw and would want to have a chat with me about the portfolio, work opportunities, or collaboration, drop me an email at aastha.0720@gmail.com. 
+If you liked what you saw and like want to have a chat with me about the portfolio, work opportunities, or collaboration, drop me an email at aastha.0720@gmail.com. 
